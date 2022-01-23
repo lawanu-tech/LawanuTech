@@ -281,6 +281,10 @@ footer
 {
     flex-direction: column;
 }
+.hero img
+{
+    max-width:70%;
+}
 .hero .short-intro
 {
     width: 15rem;
