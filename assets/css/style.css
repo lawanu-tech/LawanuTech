@@ -272,7 +272,7 @@ footer
 .nav-list  {
    position: fixed;
    flex-direction: column;
-   top:27%;
+   top:70px;
    left: 0%;
     width: 100%;
    text-align: center;
