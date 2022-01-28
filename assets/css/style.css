@@ -272,11 +272,11 @@ footer
 .nav-list  {
    position: fixed;
    flex-direction: column;
-   top:83px;
+   top:27%;
    left: 0%;
     width: 100%;
    text-align: center;
-   background-color: white;
+   background-color: #fcfcfc;
    transform: translateX(120%);
    padding: 1rem 0;
 
