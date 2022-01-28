@@ -41,7 +41,7 @@ section
     align-items: center;
     justify-content: space-between;
     background-color:#fcfcfc ;
-    padding: 1.5rem 2rem;
+    padding: 1rem 2rem;
     font-weight: var(--bold-font);
     color: var(--primary-color);
     box-shadow: 0rem 0.5rem 1rem var(--primary-shadow);
@@ -49,6 +49,7 @@ section
 .nav-bar .logo
 {
     text-transform: uppercase;
+  
 }
 .nav-list
 {
@@ -81,7 +82,7 @@ section
 }
 .hero img
 {
-    max-width: 600px;
+    width: 40%;
 }
 .hero .short-intro
 {   padding: 0.65rem;
@@ -168,8 +169,20 @@ section
 .projects .project-card img
 { 
      margin-bottom: 0.5rem;
-     width: 65%;
-    height: 60%;
+     width: 70%;
+    height: 65%;
+}
+.projects .project-title
+{
+    margin-bottom: var(--margin-bottom);
+}
+.projects .project-details
+{
+    margin-bottom: var(--margin-bottom);
+}
+.projects a
+{
+    color: var(--primary-color);
 }
 /* Contact */
 .contact
